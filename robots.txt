@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /portifolio-camila/
+Sitemap: https://joeyalans.github.io/portifolio-camila/sitemap.xml
