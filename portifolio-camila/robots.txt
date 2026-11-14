@@ -2,3 +2,4 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://joeyalans.github.io/portifolio-camila/sitemap.xml
+Sitemap: https://joeyalans.github.io/portifolio-camila/video-sitemap.xml
